@@ -11,7 +11,4 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Ignore large data files
-*.csv
-*.h5
-*.pkl
-*.joblib
+
